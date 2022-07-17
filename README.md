@@ -7,3 +7,12 @@ HTML CSS JAVASCRIPT
 
 # frame work:
 Vue.Js, BootStrap
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
